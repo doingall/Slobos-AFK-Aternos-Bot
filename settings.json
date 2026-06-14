@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1234-yCOQ.aternos.me",
-    "port":  21160,
+    "ip": "goimgdolim.aternos.me",
+    "port":  28750,
     "version": "",
     "try-creative": false
   },
